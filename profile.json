@@ -1,0 +1,14 @@
+
+//JSON Profile
+//Christy LaPerriere
+{
+  "firstName": "Christy",
+  "lastName": "LaPerriere",
+  "displayHandle": "christylap",
+
+  "posts": ["Hello World", "I can't wait to learn more about JSON",
+    "Logging Off"],
+
+  "age": 20,
+  "active": true
+}
